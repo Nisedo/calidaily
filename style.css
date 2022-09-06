@@ -22,3 +22,8 @@ body {
     background-color: #F1F1F1;
     overflow: hidden
 }
+
+.button {
+    display: flex;
+    justify-content: center;
+}
